@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen 1](./screenshot1.jpg)
-![Screen 2](./screenshot2.jpg)
+![Screen 1](./screenshot1.jpeg)
+![Screen 2](./screenshot2.jpeg)
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-faq-accordion-card)
-- Live Site URL: [Live site URL here](https://fm-faq-accordion-card-eosin.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-interactive-pricing-component-main)
+- Live Site URL: [Live site URL here](https://fm-interactive-pricing-component-main.vercel.app/)
 
 ## My process
 
