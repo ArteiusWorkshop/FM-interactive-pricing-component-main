@@ -1,0 +1,39 @@
+.header {
+  background-image: url("/img/pattern-circles.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.title {
+  font-weight: 800;
+  font-size: 24px;
+  color: var(--TextCTABackground);
+}
+
+.subtitle {
+  color: var(--Text);
+}
+@media only screen and (max-width: 425px) {
+  .header {
+    height: 330px;
+    width: 90%;
+    background-size: 43%;
+  }
+  .title {
+    padding-bottom: 10px;
+  }
+} /*Mobile*/
+
+@media only screen and (min-width: 426px) {
+  .header {
+    height: 200px;
+    background-size: 43%;
+  }
+  .title {
+    padding-bottom: 5px;
+  }
+} /*sm*/
